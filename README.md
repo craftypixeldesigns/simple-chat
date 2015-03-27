@@ -1,5 +1,6 @@
 # Simple Chat Server
 A simple chat server for a school assignment
+
 Requirements found here: http://www.hcitang.org/uploads/Teaching/CPSC599W2015A1.html
 
 # Server1.js
