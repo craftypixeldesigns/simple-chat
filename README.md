@@ -25,7 +25,7 @@ To use:
 - This is optional, where the default is 0 and no logging occurs
 - Level 1: Logs only messages with the following format: _[date-time] MESSAGE: [username]: [message]_
 - Level 2: Logs also the connections and disconnects from the clients: _[date-time] [CONNECT/DISCONNECT]: [IP]:[port]_
-- 
+
 `-f <filename.extension>` or `--file=<filename.extension>` logs to a file based on level of logging mechanism
 - Use extension .txt for a nicely formatted file
 
